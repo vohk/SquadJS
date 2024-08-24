@@ -20,6 +20,7 @@
   },
   "type": "module",
   "dependencies": {
+    "canvas": "^2.11.2",
     "squad-server": "1.0.0"
   },
   "devDependencies": {
